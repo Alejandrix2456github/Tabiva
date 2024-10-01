@@ -16,16 +16,17 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tabiva-web-browser.git
+   git clone https://github.com/Alejandrix2456github/Tabiva
    ```
 2. **Install dependencies:**
    ```bash
-   cd tabiva-web-browser
-   pip install -r requirements.txt
+   cd Tabiva
+   pip install PyQt5
+   pip install PyQtWebViewEngine
    ```
 3. **Run the browser:**
    ```bash
-   python src/main.py
+   python src/tabiva.py
    ```
 
 **Contributing**
@@ -34,17 +35,16 @@ We welcome contributions from the community! If you're interested in contributin
 
 **License**
 
-Tabiva is licensed under the [MIT License] or [Your chosen license].
+Tabiva is licensed under the [MIT License].
 
-**Additional Information**
-
-* **Project website:** [Link to your project website, if applicable]
-* **Documentation:** [Link to your project's documentation]
 
 **Known Issues and Limitations**
 
-[List any known issues or limitations here]
+1. Very simple and its limited to light theme
+2. Cant create tabs yet
 
 **Future Plans**
 
-[Describe your plans for future development of the web browser]
+1. Themes
+2. Addons
+3. Styles
