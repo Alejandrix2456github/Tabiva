@@ -22,7 +22,7 @@
    ```bash
    cd Tabiva
    pip install PyQt5
-   pip install PyQtWebViewEngine
+   pip install PyQtWebEngine
    ```
 3. **Run the browser:**
    ```bash
